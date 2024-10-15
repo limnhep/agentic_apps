@@ -1,8 +1,8 @@
 # Project Setup Guide
 
-This project is a collection of tutorials on LangGraph / LangChain / LLMs, a library for building stateful, multi-actor applications with LLMs. Each tutorial is self-contained and can be run independently.
+This project is a collection of tutorials on LangGraph / LangChain / LLMs, a library for building stateful, multi-actor applications with LLMs. Each tutorial is self-contained and can be run independently and is for practice and learning purposes only.
 
-Many thanks to many other developers out there who have contributed and teach us how to use LangGraph. These tutorials are not possible without their work.
+Many thanks to many other developers out there who have contributed and teach others how to use LangGraph / LangChain / LLMs. These tutorials are not possible without their work.
 
 ## Prerequisites
 
